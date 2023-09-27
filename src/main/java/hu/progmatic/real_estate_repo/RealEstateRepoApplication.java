@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RealEstateRepoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RealEstateRepoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(RealEstateRepoApplication.class, args);
+    }
 
 }
